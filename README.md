@@ -1,11 +1,13 @@
 # Bookmarqué
 
+![Bookstore Project Hero Image](screenshots/splash.png)
+
+An online bookstore project for a group Software Engineering course. 5 members collaborated over the course of a semester using project management techniques and Agile methodology to create a full-stack MVT product.
+
+
 Home | Login | Search | Checkout
 :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------:
 ![Home](screenshots/home.png)  |  ![Login](screenshots/login.png) | ![Search](screenshots/search.png) | ![Checkout](screenshots/checkout.png)
-
-
-An online bookstore project for a group Software Engineering course. 5 members collaborated over the course of a semester using project management techniques and Agile methodology to create a full-stack MVT product.
 
 ## Our Technology
 - Flask as the MVT tool and backend server
