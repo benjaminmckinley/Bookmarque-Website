@@ -1,5 +1,15 @@
 # Bookmarqué
-An online bookstore class project for Software Engineering (CSCI4050) Spring '21.
+An online bookstore project for a group Software Engineering course. 5 members collaborated over the course of a semester using project management techniques and Agile methodology to create a full-stack MVT product.
+
+## Our Technology
+- Flask as the MVT tool and backend server
+- Jinja2 template engine
+- SQLAlchemy ORM tool
+- SCSS
+- MySQL
+- JavaScript
+
+# Setup
 
 ## Flask installation for your machine:
 https://flask.palletsprojects.com/en/1.1.x/installation/#installation
@@ -49,6 +59,7 @@ To start, you'll have to have an active mysql server on your computer. This can 
 
 To provide credentials to MySQL, enter configuration details into a `config.py` file using template.
 
+## Installations
 ```
 pip install libsass
 pip install flask_mysqldb
